@@ -1,0 +1,10 @@
+/* styles.css */
+.thead-light {
+    background-color: #f8f9fa; /* Color claro para español */
+  }
+  
+  .thead-dark {
+    background-color: #343a40; /* Color oscuro para inglés */
+    color: white; /* Texto blanco en el encabezado oscuro */
+  }
+  
